@@ -48,9 +48,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DBE.Init.BalloonShown" value="true" />
     <property name="DatabaseDriversLRU" value="mysql.8" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="WindowStateProjectService">
@@ -58,5 +60,13 @@
       <screen x="0" y="23" width="1440" height="838" />
     </state>
     <state x="320" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.838@0.23.1440.838" timestamp="1583765079805" />
+    <state x="344" y="44" key="CommitChangelistDialog2" timestamp="1583765772882">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="344" y="44" key="CommitChangelistDialog2/0.23.1440.838@0.23.1440.838" timestamp="1583765772882" />
+    <state x="320" y="182" key="Vcs.Push.Dialog.v2" timestamp="1583765826186">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="320" y="182" key="Vcs.Push.Dialog.v2/0.23.1440.838@0.23.1440.838" timestamp="1583765826186" />
   </component>
 </project>
